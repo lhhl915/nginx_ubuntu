@@ -1,6 +1,6 @@
 # Dockerfile
 
-FROM ubuntu_sshd_gcc_gerry:14.04
+FROM registry.dataos.io/library/ubuntu:14.04
 
 MAINTAINER gerry 20150126
 
