@@ -1,6 +1,6 @@
 # Dockerfile
 
-FROM registry.dataos.io/library/ubuntu:14.04
+FROM registry.dataos.io/library/ldp-ubuntu:14.04
 
 MAINTAINER gerry 20150126
 
